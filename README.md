@@ -1,24 +1,29 @@
-# Relaxer – Guided Breathing App 🌿
+# Relaxer – our Companion for a Healthier Workplace 
 
 ---
 
 ## 🌐 Overview  
 
-The **Relaxer** project is a simple yet effective **guided breathing application** that helps users **relax, focus, and reduce stress**.  
-It uses a smooth expanding/contracting animation along with timing cycles to guide the user’s breathing rhythm.  
+The **Relaxer** project aims to keep a check and improve employees’ Mental Health and overall well-being. The core idea behind creating a mental health application for the workplace is to address the growing concerns around stress, anxiety, and mental health in the modern workplace.
 
 The purpose of Relaxer is to provide a **minimal and distraction-free environment** for mindfulness and stress relief, making it useful for students, professionals, or anyone looking to pause and recharge.  
 ---
 
 ## ✨ Features  
 
-- 🌀 **Breathing Animation** – Expanding/contracting circle to guide inhale & exhale  
-- ⏱ **Timed Cycle** – Automated inhale, hold, and exhale pattern  
-- 📱 **Responsive UI** – Works seamlessly on mobile and desktop  
-- 🎨 **Minimal Design** – Simple and calming interface  
-- 🏆 **Achievements Reducer** – Track personal milestones and relaxation goals (via `AchievementsReducer.js`)  
-- 🔄 **Frontend + Backend Integration** – Scalable architecture for future enhancements  
+- 🌀 **Daily SelfCare**
+- ⏱ **Track your Goals**   
+- 📱 **Employee Assisstance Programme (EAP)** 
+- 🎨 **Engaging Activities**
+- 🏆 **Leaderboard**
+- 🔄 **Educational Resources** 
+---
+## Other Features
 
+- Google Authentication
+- Real-time updates
+- Responsive UI
+- Data Storage and retrieval
 ---
 
 ## 🛠 Tech Stack  
