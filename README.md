@@ -8,6 +8,7 @@ The **Relaxer** project is a simple yet effective **guided breathing application
 It uses a smooth expanding/contracting animation along with timing cycles to guide the user’s breathing rhythm.  
 
 The purpose of Relaxer is to provide a **minimal and distraction-free environment** for mindfulness and stress relief, making it useful for students, professionals, or anyone looking to pause and recharge.  
+
 ---
 
 ## ✨ Features  
@@ -30,12 +31,13 @@ The purpose of Relaxer is to provide a **minimal and distraction-free environmen
 
 **Backend**  
 - Node.js  
-- Express.js
-- MongoDB 
+- Express.js  
+- MongoDB  
 
 **Other Tools**  
 - IDE: Visual Studio Code  
 - Version Control: Git + GitHub  
+
 ---
 
 ## ⚙️ Installation / Environment Setup  
@@ -48,19 +50,7 @@ Open terminal in a new folder and enter the command given below:
 git clone https://github.com/Tanistha2003/Relaxer.git
 cd Relaxer
 
-### Install Dependencies
-```bash
 npm install
 cd backend
 npm install
 cd ..
-
-### Create Build
-```bash
-npm run build
-
-### Run the Project
-```bash
-cd backend
-npm start
-
